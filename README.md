@@ -8,13 +8,13 @@ I leverage Advanced AI Collaboration to accelerate my development workflow, arch
 
 ### Current Focus
 - Pursuing my Bachelor's degree in Informatics & Telecommunications.
-- Completing the Google Cybersecurity Professional Certificate & preparing for the ISC² CC.
-- Exploring Cloud Security architectures and automation.
+- Preparing to start the Google Cybersecurity Professional Certificate & the ISC² CC pathway.
+- Exploring foundational Cloud Security architectures and concepts
 
 ### Technical Skills & Tools
 - Languages: C, Python (Learning)
 - Methodologies: AI-Driven Development, Prompt Engineering, Process Monitoring
-- Platforms: GitHub, Google Cloud Skills Boost, Linux
+- Platforms: GitHub, Google Cloud Skills Boost
 
 ### Professional Philosophy
 > "Securing the future means governing AI, mastering the Cloud, and understanding the risks before they become threats."
