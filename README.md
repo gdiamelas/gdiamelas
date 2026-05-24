@@ -25,4 +25,4 @@ I leverage Advanced AI Collaboration to accelerate my development workflow, arch
 - [LinkedIn](linkedin.com/in/georgios-george-diamelas-aa116b374)
 
 ---
-*Profile Views:* ![Views](https://komarev.com/ghpvc/?username=gdiamelas&color=black&style=flat-square)
+*Profile Views:* ![Views](https://komarev.com/ghpvc/?username=gdiamelas&color=000000&style=flat-square)
