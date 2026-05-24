@@ -1,4 +1,4 @@
-# Georgios Diamelas
+# Georgios Diamelas 
 
 I am a Computer Science student at the Department of Informatics & Telecommunications (1st Year), driving towards becoming a professional at the intersection of AI, Cloud Computing, Cybersecurity, and GRC (Governance, Risk, & Compliance).
 
