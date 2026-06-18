@@ -24,9 +24,7 @@
   </a>
 </p>
 
-<!-- Profile Counter & Stats Badges -->
-<img src="https://komarev.com/ghpvc/?username=gdiamelas&color=7C3AED&style=flat-square&label=Profile+Views"/>
-&nbsp;
+<!-- Stats Badges -->
 <img src="https://img.shields.io/github/followers/gdiamelas?style=flat-square&color=6366F1&label=Followers"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/gdiamelas?style=flat-square&color=A78BFA&label=Stars"/>
