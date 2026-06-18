@@ -47,3 +47,135 @@ I leverage Advanced AI Collaboration to accelerate my development workflow, arch
 ---
 
 ## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python&theme=dark"/>
+</p>
+
+### Platforms & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gcp&theme=dark"/>
+</p>
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>📊 1. Security Log Analyzer — Automated Parser</b></summary>
+
+<br/>
+
+> Lightweight C-based parsing engine built to ingest textual system logs, detect failed authentication patterns, and generate instant security alerts.
+
+| Attribute | Detail |
+|---|---|
+| **Core Stack** | C · File I/O · String Evaluation (`strstr`) · Git |
+| **Mechanisms** | Line-by-Line Log Parsing · Signature Detection · Automated Threat Assessment |
+| **Output** | Real-time CLI Alerts & Comprehensive Security Status Reports |
+
+**What it does:** Ingests raw textual log files (`server_logs.txt`), scans each entry for specific failure indicators, and evaluates systemic risk by triggering security warnings (e.g., Brute-Force Attack alerts) when predefined thresholds are breached.
+
+</details>
+
+<details>
+<summary><b>🛡️ 2. Micro-EDR Simulator — Endpoint Security Tool</b></summary>
+
+<br/>
+
+> Pure C cross-platform security agent simulation designed to audit running processes against known malicious software signatures.
+
+| Attribute | Detail |
+|---|---|
+| **Core Stack** | C · String Manipulation (`strcmp`) · Array Architecture · Git |
+| **Mechanisms** | Static Signature Matching · Threat Detection · Security Automation Logic |
+| **Architecture** | Lightweight, cross-platform standalone executable |
+
+**What it does:** Mimics the core evaluation logic of an EDR tool by iterating through active system processes and validating them against a hardcoded blacklist array of indicators (e.g., keyloggers, spyware) to trigger immediate infrastructure warnings.
+
+</details>
+
+---
+
+## Current Focus & Pathways
+
+| Domain | Roadmap Target | Details |
+|---|---|---|
+| **Academic** | University of Ioannina | Pursuing Bachelor's degree in Informatics & Telecommunications |
+| **Cybersecurity** | Google / ISC² | Preparing for Google Cybersecurity Professional Certificate & CC Pathway |
+| **Cloud Security** | Cloud Architectures | Exploring foundational Cloud Security architectures and concepts |
+
+---
+
+## Methodologies & Innovation
+
+<div align="center">
+
+**AI-Driven Core**
+<br/>
+![AI-Driven Development](https://img.shields.io/badge/Methodology-AI--Driven_Development-7C3AED?style=flat-square)
+&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/Methodology-Prompt_Engineering-6366F1?style=flat-square)
+&nbsp;
+![Process Monitoring](https://img.shields.io/badge/Methodology-Process_Monitoring-A78BFA?style=flat-square)
+
+<br/>
+
+**Cloud Learning Platforms**
+<br/>
+![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+</div>
+
+---
+
+## Professional Philosophy
+
+> "Securing the future means governing AI, mastering the Cloud, and understanding the risks before they become threats."
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=gdiamelas&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gdiamelas&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdiamelas&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=6" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:giorgosdiamelas@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-giorgosdiamelas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/georgios-george-diamelas-aa116b374/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Georgios_Diamelas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/gdiamelas" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-gdiamelas-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Building at the intersection of AI, Cloud Computing, Cybersecurity, and GRC.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
