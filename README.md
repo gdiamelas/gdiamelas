@@ -19,6 +19,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="mailto:[Your Email Here]">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/gdiamelas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -151,6 +155,26 @@ I leverage Advanced AI Collaboration to accelerate my development workflow, arch
 </div>
 
 ---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:[Your Email Here]">
+  <img src="https://img.shields.io/badge/Gmail-[Your_Email_Here]-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/georgios-george-diamelas-aa116b374/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Georgios_Diamelas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/gdiamelas" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-gdiamelas-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
