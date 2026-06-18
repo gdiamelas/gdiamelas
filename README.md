@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Waving Header Background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- Typing Effect Title -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Georgios+Diamelas;Informatics+%26+Telecommunications+Student;AI+%26+Cloud+Computing;Cybersecurity+%26+GRC+Enthusiast" alt="Typing SVG" />
 
 <br/>
@@ -28,7 +26,6 @@
   </a>
 </p>
 
-<!-- Stats Badges -->
 <img src="https://img.shields.io/github/followers/gdiamelas?style=flat-square&color=6366F1&label=Followers"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/gdiamelas?style=flat-square&color=A78BFA&label=Stars"/>
@@ -88,15 +85,15 @@ I leverage Advanced AI Collaboration to accelerate my development workflow, arch
 
 <br/>
 
-> High-performance, C-based parsing engine built to ingest raw system logs, detect malicious patterns, and structure security analytics.
+> Lightweight C-based parsing engine built to ingest textual system logs, detect failed authentication patterns, and generate instant security alerts.
 
 | Attribute | Detail |
 |---|---|
-| **Core Stack** | C · File I/O · String Manipulation · Git |
-| **Mechanisms** | Log Filtering · Severity Matrix · Indicator of Compromise (IoC) Alerts |
-| **Output** | Structured Security Event Generation (TXT/CSV Format) |
+| **Core Stack** | C · File I/O · String Evaluation (`strstr`) · Git |
+| **Mechanisms** | Line-by-Line Log Parsing · Signature Detection · Automated Threat Assessment |
+| **Output** | Real-time CLI Alerts & Comprehensive Security Status Reports |
 
-**What it does:** Ingests raw textual log files (Syslog/Auth logs), breaks them down using pointer-based tokenization, and automatically isolates high-risk entries to reduce manual threat investigation time.
+**What it does:** Ingests raw textual log files (`server_logs.txt`), scans each entry for specific failure indicators, and evaluates systemic risk by triggering security warnings (e.g., Brute-Force Attack alerts) when predefined thresholds are breached.
 
 </details>
 
